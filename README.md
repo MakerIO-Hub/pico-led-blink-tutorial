@@ -70,9 +70,6 @@ while True:
     led.on()         # Turn the LED on
     print("LED ON")  # Print a message to the computer screen
     time.sleep(1)    # Wait for 1 second
-```
-
-```
     led.off()        # Turn the LED off
     print("LED OFF") # Print a message to the computer screen
     time.sleep(1)    # Wait for 1 second
